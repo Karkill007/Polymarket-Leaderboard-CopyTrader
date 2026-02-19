@@ -38,7 +38,9 @@ If balance ≥ $500 → bets 3% of total account balance
 
 ## Installation
 Clone the repository
+
 git clone https://github.com/Karkill007/Polymarket-Leaderboard-CopyTrader
+
 cd Polymarket-Leaderboard-CopyTrader
 
 Install required dependencies
