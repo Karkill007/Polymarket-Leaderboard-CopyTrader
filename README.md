@@ -42,6 +42,7 @@ git clone https://github.com/Karkill007/Polymarket-Leaderboard-CopyTrader
 cd Polymarket-Leaderboard-CopyTrader
 
 Install required dependencies
+
 pip install -r requirements.txt
 
 ## Environment Variables
@@ -51,10 +52,13 @@ You must configure the following environment variables:
 POLYMARKET_PRIVATE_KEY
 POLYMARKET_WALLET_ADDRESS
 
+
 Linux / macOS
 export POLYMARKET_PRIVATE_KEY="your_private_key"
+
 export POLYMARKET_WALLET_ADDRESS="your_wallet_address"
 
 Windows (PowerShell)
 setx POLYMARKET_PRIVATE_KEY "your_private_key"
+
 setx POLYMARKET_WALLET_ADDRESS "your_wallet_address"
